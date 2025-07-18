@@ -15,7 +15,7 @@ O chatbot extrai e organiza blocos de informação de um arquivo HTML estruturad
 Print do terminal com os comandos Git executados:
 ![Reconhecimento](src/img/214121729471248.png)
 
-Exibição de resposta:
+Print do terminal com exibição de resposta do chatbot:
 ![Resposta](src/img/912491729471248.png)
 
 ---
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 python index.py
 ```
 
-5. Faça perguntas relacionadas ao conteúdo. Para sair, digite `sair`.
+5. Faça perguntas relacionadas ao conteúdo para tirar suas dúvidas.
 
 ---
 
@@ -68,30 +68,3 @@ python index.py
 - Acesso à internet apenas para instalação de dependências
 
 ---
-
-## Instruções para entrega
-
-Para concluir esta atividade conforme as instruções recebidas:
-
-1. Instale o Git em sua máquina: [https://git-scm.com](https://git-scm.com)
-2. Crie uma conta no GitHub: [https://github.com](https://github.com)
-3. Crie um repositório público com nome relacionado ao projeto (ex: `chatbot-jovem-programador`)
-4. No terminal da sua IDE, navegue até a pasta do projeto e execute:
-
-```bash
-git init
-git remote add origin https://github.com/seu-usuario/seu-repositorio.git
-git add .
-git commit -m "chatbot-inteligente"
-git push -u origin master
-```
-
-5. Encaminhe:
-   - Print do repositório com os arquivos inseridos
-   - Print do terminal com os comandos Git executados
-
----
-
-## Licença
-
-Uso acadêmico. Desenvolvido para fins educacionais no contexto do programa Jovem Programador.
