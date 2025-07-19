@@ -41,7 +41,6 @@ PI/
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
-```
 
 2. Instale as dependências:
 
